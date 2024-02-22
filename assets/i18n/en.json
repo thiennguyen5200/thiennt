@@ -4,7 +4,7 @@
     "Header.Item3": "Projects",
     "Header.Item4": "Contact",
     "Header.cvBtn": "Resume",
-    "Header.cvName": "HieuTH_CV_en.pdf",
+    "Header.cvName": "CV_Nguyen-Thanh-Thien.pdf",
     "Banner.Pretitle": "Hello! My name is",
     "Banner.Description": "I have over <span class='underline'>5 years of experience</span> in programming, software outsourcing, system development, and technical solutions for fast-moving consumer goods (FMCG) retail systems such as supermarkets, convenience stores, and grocery stores. I enjoy writing and improving code with a focus on cleanliness, reusability, and scalability using languages like <span class='underline'>Angular, NodeJS, .NET Core, ASP .NET</span>, and some <span class='underline'>Python</span>.",
     "Banner.ActionBtn": "Contact me",
