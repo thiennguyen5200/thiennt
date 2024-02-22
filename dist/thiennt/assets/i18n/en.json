@@ -1,0 +1,195 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "HieuTH_CV_en.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have over <span class='underline'>5 years of experience</span> in programming, software outsourcing, system development, and technical solutions for fast-moving consumer goods (FMCG) retail systems such as supermarkets, convenience stores, and grocery stores. I enjoy writing and improving code with a focus on cleanliness, reusability, and scalability using languages like <span class='underline'>Angular, NodeJS, .NET Core, ASP .NET</span>, and some <span class='underline'>Python</span>.",
+    "Banner.ActionBtn": "Contact me",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+      "In my over 5 years of experience, with <span class='underline'>1 year in Outsourcing</span> and <span class='underline'>4 years in programming</span>, I am always eager to learn and explore every day. I have written test cases for unit testing and software testing, and developed features and software using <span class='underline'>.NET Core, ASP .NET, Angular, NodeJS, MongoDB, and SQL Server</span>. Working with my team, we strive to deliver features to users with the highest quality and ensure the logical integrity of the system.",
+      "My skills also include system improvement, performance optimization, site standardization, and pattern suggestions, as well as contributing innovative ideas to the projects I am involved in.",
+      "The technologies I have learned and worked with (expandable with opportunities):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+      {
+        "Tab": "FUJINET SYSTEMS JSC",
+        "Title": "Development",
+        "Date": "April 2018 - March 2019",
+        "Description": [
+          "Customizing sales management systems, such as order forms, inventory management, expense management, etc.",
+          "Programming new features, modifying some existing functions of the software package for construction management.",
+          "Understanding customer requirements.",
+          "Experience using programming management tools (TFS, SVN).",
+          "Experience working with SQL Server."
+        ]
+      },
+      {
+        "Tab": "PowersoftVN",
+        "Title": "R&D team",
+        "Date": "August 2019 - November 2021",
+        "Description": [
+          "Researching and developing web applications using Angular, Node.js, .NET Core, and SQL Server (Topos Go).",
+          "Designing and deploying RESTful APIs to support multiple applications in the ecosystem using .NET Core.",
+          "Developing face recognition applications using Machine Learning."
+        ]
+      },
+      {
+        "Tab": "PowersoftVN",
+        "Title": "Deployment staff",
+        "Date": "December 2021 - April 2023",
+        "Description": [
+          "Deploying and maintaining web applications using Angular, Node.js, .NET Core, and SQL Server, with the goal of improving user experience and performance.",
+          "Developing APIs and services for summarizing sales data via Zalo.",
+          "Developing APIs to connect online payment gateways for POS systems such as MoMo, ZaloPay, ShopeePay, Moca, VNPay.",
+          "Improving product performance."
+        ]
+      }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+
+        {
+            "Title": "Reporting Tool",
+            "Description": "Develop web for design and view summary reports base on Devexpress Dashboard and SQL Server along with OLAP in order for reports to be multidimensional and throughout time",
+            "imgs": [
+                "assets/images/ToposROT/image1.jpg"
+            ],
+            "Technologies": [
+                "ASP .NET",
+                "Devexpress",
+                "OLAP",
+                "SQL Server"
+            ]
+        },
+        {
+            "Title": "TOPOS new version",
+            "Description": "Design new UI base on <span class='underline'>WPF</span> of Microsoft.",
+            "imgs": [
+                "assets/images/newversion/image1.jpg"
+            ],
+            "Technologies": [
+                "WPF",
+                "XAML"
+            ]
+        },
+        {
+            "Title": "Face recognition web",
+            "Description": "Develop web using <span class='underline'>Python</span> and <span class='underline'>InfluxDB</span> with NCS2 of Intel to recognize loyalty customer, along with customer's gender and age through camera.",
+            "imgs": [
+                "assets/images/ncs/image1.jpg",
+                "assets/images/ncs/image2.jpg"
+            ],
+            "Technologies": [
+                "Python",
+                "InfluxDB",
+                "Machine Learning"
+            ]
+        },
+        {
+            "Title": "TOPOS Go",
+            "Description": "Develop POS webapp on mobile device using <span class='underline'>Angular</span> and <span class='underline'>SPA</span> ensure operate in many networks occasions.",
+            "imgs": [
+                "assets/images/ToposGo/image1.jpg",
+                "assets/images/ToposGo/image2.jpg",
+                "assets/images/ToposGo/image3.jpg"
+            ],
+            "Technologies": [
+                "Angular",
+                "NodeJS",
+                "TypeScript",
+                ".NET Core",
+                "SQL Server"
+            ]
+        },
+        {
+            "Title": "Zalo Integrated Notification",
+            "Description": "Develop API and window service excute summarize end of day sale data or base on Zalo action to send reports by text or pdf file to user.",
+            "imgs": [
+                "assets/images/ZIN/image1.jpg",
+                "assets/images/ZIN/image2.jpg",
+                "assets/images/ZIN/image3.jpg"
+            ],
+            "Technologies": [
+                ".NET Core",
+                "Window Service",
+                "SQL Server"
+            ]
+        },
+        {
+            "Title": "Payment Gateway",
+            "Description": "Develop API for POS clients connect online payment: GrabPay, ZaloPay, ShopeePay, VNPay, Momo and online Voucher: GotIt, Urbox.",
+            "imgs": [
+                "assets/images/PG/image1.png",
+                "assets/images/PG/image2.jpg"
+            ],
+            "Technologies": [
+                ".NET Core",
+                "Window Service",
+                "SQL Server"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Covid Tracker",
+            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
+            "ghLink": "https://github.com/mufeez1/carona19-tracker",
+            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Lets Chat",
+            "Description": "A real-time chat application. Another fun side project :)",
+            "ghLink": "https://github.com/mufeez1/lets-chat",
+            "Technologies": [
+                "React",
+                "SASS",
+                "Socket.io",
+                "NodeJS",
+                "ExpressJS",
+                "Firebase"
+            ]
+        },
+        {
+            "Title": "Quiz App",
+            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+            "ghLink": "https://github.com/mufeez1/quizapp",
+            "demoLink": "https://github.com/mufeez1/quizapp",
+            "Technologies": [
+                "React",
+                "SASS",
+                "TypeScript",
+                "API",
+                "3rd Party Library"
+            ]
+        },
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
+            "ghLink": "https://github.com/mufeez1/node-jwt",
+            "demoLink": "https://github.com/mufeez1/node-jwt",
+            "Technologies": [
+                "React",
+                "JWT",
+                "ExpressJS",
+                "POSTGREESQL"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
